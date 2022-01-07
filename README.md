@@ -1,4 +1,3 @@
 # dd
-DD Package provides functionality for console logging, inspired by the Symfony dd() and dump() functions.
-
+DD Package provides functionality for JS console logging, inspired by the PHP Symfony dd() and dump() functions.
 
