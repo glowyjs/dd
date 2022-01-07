@@ -2,7 +2,7 @@
 <p align="center">DD Package provides functionality for JS console logging, inspired by the PHP Symfony dd() and dump() functions.</p>
 
 <p align="center">
-<a href="https://github.com/glowyjs/dd/releases"><img alt="Version" src="https://img.shields.io/github/release/glowyjs/dd.svg?label=version&color=green"></a> <a href="https://github.com/glowyjs/dd"><img src="https://img.shields.io/badge/license-MIT-blue.svg?color=green" alt="License"></a> <img src="https://github.com/glowyjs/dd/actions/workflows/tests.yml/badge.svg">
+<a href="https://github.com/glowyjs/dd/releases"><img alt="Version" src="https://img.shields.io/github/release/glowyjs/dd.svg?label=version&color=green"></a> <a href="https://github.com/glowyjs/dd"><img src="https://img.shields.io/badge/license-MIT-blue.svg?color=green" alt="License"></a>
 
 ## Install
 
