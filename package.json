@@ -1,0 +1,27 @@
+{
+  "name": "@glowyjs/dd",
+  "version": "1.0.0",
+  "description": "DD Package provides functionality for JS console logging, inspired by the PHP Symfony dd() and dump() functions.",
+  "license": "MIT",
+  "repository": "glowyjs/dd",
+  "author": {
+    "name": "Sergey Romanenko",
+    "email": "awilum@msn.com",
+    "url": "https://github.com/Awilum"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": ">=12"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "glowyjs",
+    "glowy",
+    "dd",
+    "dump",
+    "console"
+  ]
+}
