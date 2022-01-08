@@ -33,14 +33,6 @@ dd('Foo', 'Bar')
 // 'Stopped execution because dd(), use dump() if you want to proceed.'
 ```
 
-## Tests
-
-Run tests
-
-```
-npm run test
-```
-
 ## License
 [The MIT License (MIT)](https://github.com/glowyjs/dd/blob/master/LICENSE.txt)
 Copyright (c) [Sergey Romanenko](https://github.com/Awilum)
